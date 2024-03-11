@@ -1,3 +1,13 @@
+
+![Capture d’écran 2024-03-11 160030](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/cb9a74ba-f9a5-4acb-92ae-dd917e2ea3ee)
+![Capture d’écran 2024-03-11 160203](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/8f291976-4d5b-4ed3-9af3-6553f38ee9b7)
+![Capture d’écran 2024-03-11 160246](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/25edea08-8a7a-4a94-bb7a-ed2a6c705683)
+![Capture d’écran 2024-03-11 160350](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/675d64ae-eabd-4935-92f0-a5974d2b2532)
+![Capture d’écran 2024-03-11 160549](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/3e05b0c7-dcfc-4791-8ddd-33e1fd2b4e02)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
