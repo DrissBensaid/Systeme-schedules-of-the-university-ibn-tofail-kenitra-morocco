@@ -1,9 +1,16 @@
-
-![Capture d’écran 2024-03-11 160030](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/cb9a74ba-f9a5-4acb-92ae-dd917e2ea3ee)
-![Capture d’écran 2024-03-11 160203](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/8f291976-4d5b-4ed3-9af3-6553f38ee9b7)
-![Capture d’écran 2024-03-11 160246](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/25edea08-8a7a-4a94-bb7a-ed2a6c705683)
-![Capture d’écran 2024-03-11 160350](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/675d64ae-eabd-4935-92f0-a5974d2b2532)
-![Capture d’écran 2024-03-11 160549](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/3e05b0c7-dcfc-4791-8ddd-33e1fd2b4e02)
+![Capture d’écran 2024-03-11 155524](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/7e2c9bb9-94fc-406e-a1b9-c541f56a5ed7)
+![Capture d’écran 2024-03-11 155618](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/23488504-440a-46b6-9356-bb52ad8f604f)
+![Capture d’écran 2024-03-11 155647](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/10e4fc9a-f5fb-41d9-873f-9b655b3b4cb1)
+![Capture d’écran 2024-03-11 155717](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/b210be3d-5523-422b-b621-c77bba73b925)
+![Capture d’écran 2024-03-11 155746](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/9e03ca98-eefd-48b8-be22-01c409749ad3)
+![Capture d’écran 2024-03-11 155814](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/f301855c-a96c-476a-bec8-6456922bcef6)
+![Capture d’écran 2024-03-11 155851](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/17c95bf9-84cc-47ba-88e3-0d7bd3c40b1f)
+![Capture d’écran 2024-03-11 155948](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/22d33a29-ad52-422a-bd83-6a1180c61c21)
+![Capture d’écran 2024-03-11 160030](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/84691cc8-80f8-4850-9515-17d92058120b)
+![Capture d’écran 2024-03-11 160203](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/842e7ed6-74c2-47e6-871a-d39c50a05c94)
+![Capture d’écran 2024-03-11 160246](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/91554d53-b2a7-4645-ab5c-f4601cea0fbb)
+![Capture d’écran 2024-03-11 160350](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/019c83a9-cbfc-4336-b6ac-4320fd943261)
+![Capture d’écran 2024-03-11 160549](https://github.com/DrissBensaid/project-schedules-of-the-university-ibn-tofail-kenitra-morocco/assets/161262628/7dc927ea-9499-4309-8766-9aa4a1cd0e9b)
 
 
 
